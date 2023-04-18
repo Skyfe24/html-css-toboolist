@@ -108,12 +108,43 @@ margin-bottom: 10px;
     padding: 5px;
     display: inline-block;
  }
-.Q1{}
+.Q1{ font-size: 9px;
+    color: white;
+    background-color: rgb(132, 4, 167);
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;}
 
-.Recruiting{}
+.Recruiting{ font-size: 9px;
+    color: white;
+    background-color: rgb(186, 201, 225);
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;}
 
-.Mobile{}
+.Mobile{ font-size: 9px;
+    color: white;
+    background-color: rgb(234, 57, 237);
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;}
 
-.Website{}
+.Website{ font-size: 9px;
+    color: white;
+    background-color: rgb(84, 226, 122);
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;}
 
-.Editorialorange{}
+.Editorialorange{ font-size: 9px;
+    color: white;
+    background-color: rgb(245, 109, 19);
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;}
+    .Sales{ font-size: 9px;
+        color: white;
+        background-color: rgb(14, 226, 35);
+        border-radius: 10px;
+        padding: 5px;
+        display: inline-block;}
