@@ -9,16 +9,20 @@ body{
 }
 .separate{
     height: 2px;
-    width: 1000px;
+    width: 485px;
     margin-top: 17px;
     margin-bottom: 17px;
     background-color: gray;
-    margin-left: 0;
+    margin-left: -30px;
 }
-
+.last{
+    width: 800;
+    margin: 0;
+    padding: 0;
+}
 .a{
 max-width: 900px
-margin: 0;
+margin: 20px;
 border-radius: 10px;
 border width: 1px;
 padding: 14px 30px; 
@@ -44,6 +48,7 @@ h1{
 }
 
 main{
+    
     margin-top: 30px;
     background-color: white;
     text-align: left;
