@@ -45,7 +45,9 @@ main{
     padding: 5px; 
 }
 
-
-main{
+.list{
    margin-top: 5px;
+}
+.first{
+    border-bottom: 3px solid gray;
 }
